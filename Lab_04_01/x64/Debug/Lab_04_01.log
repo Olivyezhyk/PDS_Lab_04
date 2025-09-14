@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\olegs\Desktop\Проекти\Програмування дискретних структур\Лабораторна робота №4\Lab_04\Lab_04_01\Source.cpp(7,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LexPermutations.cpp
+C:\Users\olegs\Desktop\Проекти\Програмування дискретних структур\Лабораторна робота №4\Lab_04\Lab_04_01\LexPermutations.cpp(43,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olegs\Desktop\Проекти\Програмування дискретних структур\Лабораторна робота №4\Lab_04\Lab_04_01\LexPermutations.cpp(47,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olegs\Desktop\Проекти\Програмування дискретних структур\Лабораторна робота №4\Lab_04\Lab_04_01\LexPermutations.cpp(73,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Lab_04_01.vcxproj -> C:\Users\olegs\Desktop\Проекти\Програмування дискретних структур\Лабораторна робота №4\Lab_04\x64\Debug\Lab_04_01.exe

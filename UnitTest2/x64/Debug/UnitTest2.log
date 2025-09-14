@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  UnitTest2.cpp
+C:\Users\olegs\Desktop\Проекти\Програмування дискретних структур\Лабораторна робота №4\Lab_04\Lab_04_02\LexPermutations.cpp(65,23): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/UnitTest2.cpp')
+  
+C:\Users\olegs\Desktop\Проекти\Програмування дискретних структур\Лабораторна робота №4\Lab_04\Lab_04_02\LexPermutations.cpp(69,23): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/UnitTest2.cpp')
+  
+C:\Users\olegs\Desktop\Проекти\Програмування дискретних структур\Лабораторна робота №4\Lab_04\Lab_04_02\LexPermutations.cpp(80,27): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/UnitTest2.cpp')
+  
+     Creating library C:\Users\olegs\Desktop\Проекти\Програмування дискретних структур\Лабораторна робота №4\Lab_04\x64\Debug\UnitTest2.lib and object C:\Users\olegs\Desktop\Проекти\Програмування дискретних структур\Лабораторна робота №4\Lab_04\x64\Debug\UnitTest2.exp
+  UnitTest2.vcxproj -> C:\Users\olegs\Desktop\Проекти\Програмування дискретних структур\Лабораторна робота №4\Lab_04\x64\Debug\UnitTest2.dll
